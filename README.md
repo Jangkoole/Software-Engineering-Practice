@@ -20,7 +20,7 @@
 | :--------------------: | :--: | :--------------------------------------------------: | :--------: |
 |     **Supervisor**     |  黎鹰  |                                                      |   项目指导老师   |
 | **Product Owner（PO）**  | 吴志翔  | [@xueyeduguazhou](https://github.com/xueyeduguazhou) | 需求分析、进度管理、 |
-| ** Scrum Master (SM)** | 郑志军  |      [@Jangkoole](https://github.com/Jangkoole)      | 架构设计、核心代码  |
+| **Scrum Master (SM)** | 郑志军  |      [@Jangkoole](https://github.com/Jangkoole)      | 架构设计、核心代码  |
 |  **Develop Team（DT）**  | 朱本繁  |       [@jadehuan](https://github.com/jadehuan)       | 前端开发、接口调连  |
 
 
