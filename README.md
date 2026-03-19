@@ -1,6 +1,6 @@
-# 🚀 [项目名称]
+# 🚀 深度地牢（Procedural Dungeon）
 
-> [一句简短的项目描述，例如：一个基于 SpringBoot 的校园二手交易平台]
+> 在地下世界中探索、战斗、收集，对抗随时会出现的怪物和BOSS，活到最后！
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
@@ -10,7 +10,7 @@
 
 ## 🤔 What's this?
 这是 **2026 春季学期 NCU 软件工程课程** 的实践项目。
-本项目旨在通过敏捷开发流程，构建一个 [简述项目核心功能] 的系统，解决 [简述解决的问题] 问题。
+本项目旨在通过敏捷开发流程，尝试从零开始构建一款Roguelike像素地牢游戏。
 
 ---
 
